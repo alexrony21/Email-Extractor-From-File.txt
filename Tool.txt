@@ -1,0 +1,3 @@
+This tool will extract you email list from a file.txt. For example you have 1M email list with different different email provider like gmail, yahoo, hotmail or any domain. it will extract email and save these email list with email providers.
+
+if you wanna buy this tool contact me via Telegram @alexrony21
